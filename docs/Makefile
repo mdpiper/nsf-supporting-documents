@@ -19,4 +19,4 @@ all: ${DOCS}
 	mv Hutton_Conflict_of_Interest.docx Hutton_Collaborators_and_Affiliations.docx
 
 clean:
-	rm -f ${DOCS}
+	rm -f ${DOCS} Hutton_Collaborators_and_Affiliations.docx
