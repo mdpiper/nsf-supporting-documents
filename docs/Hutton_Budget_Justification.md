@@ -22,7 +22,9 @@ models so that they conform to the CSDMS model-coupling protocols.
 Travel
 ------
 
-One trip to Seattle per year to attend an annual team meeting.
+One trip to Seattle (round-trip airfare of $300; ground transportation of
+$100) per year to attend an annual team meeting. Meetings will be two days
+($74 per diem) with a day of travel to and from Denver and Seattle.
 
 Accounting Technician and System Administration
 -----------------------------------------------
