@@ -8,9 +8,9 @@ import csv
 _TEMPLATE = """
 # Collaborators and Other Affiliations #
 
-## Eric Hutton ##
+## Mark Piper ##
 
-*The Institute of Arctic and Alpine Research*  
+*Institute of Arctic and Alpine Research*  
 *University of Colorado*
 
 ### Collaborators and Co-Editors ({number_of_collaborators}) ###
