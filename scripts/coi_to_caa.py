@@ -11,18 +11,19 @@ _TEMPLATE = """
 ## Mark Piper ##
 
 *Institute of Arctic and Alpine Research*  
-*University of Colorado*
+*University of Colorado Boulder*
 
 ### Collaborators and Co-Editors ({number_of_collaborators}) ###
 
 {collaborators}
 
-### Graduate Advisors and Postdoctoral Sponsors ({number_of_advisors}) ###
+### Graduate Advisors ({number_of_advisors}) ###
 
 {advisors}
 
-### Thesis Advisor and Postdoctoral Sponsor (0) ###
-None
+### Thesis Advisor ({number_of_sponsors}) ###
+
+{sponsors}
 """.strip()
 
 
@@ -40,14 +41,18 @@ def main():
 
     collaborators = []
     advisors = []
+    sponsors = []
     for row in reader:
         name, institute, ctype = (row[2].strip(), row[3].strip(),
                                   row[4].strip())
         if ctype == 'Collaborator':
-            collaborators.append("1. {name}, ({institute})".format(
+            collaborators.append("1. {name} ({institute})".format(
                 name=name, institute=institute))
         elif row[-1].strip() == 'Advisor':
-            advisors.append("1. {name}, ({institute})".format(
+            advisors.append("1. {name} ({institute})".format(
+                name=name, institute=institute))
+        elif row[-1].strip() == 'ThesisAdvisor':
+            sponsors.append("1. {name} ({institute})".format(
                 name=name, institute=institute))
         else:
             warnings.warn(
@@ -56,7 +61,9 @@ def main():
     print(_TEMPLATE.format(collaborators=os.linesep.join(collaborators),
                            number_of_collaborators=len(collaborators),
                            advisors=os.linesep.join(advisors),
-                           number_of_advisors=len(advisors)),
+                           number_of_advisors=len(advisors),
+                           sponsors=os.linesep.join(sponsors),
+                           number_of_sponsors=len(sponsors)),
          file=args.output)
 
 
