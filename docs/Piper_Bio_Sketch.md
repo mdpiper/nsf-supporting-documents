@@ -1,78 +1,77 @@
-# Eric Hutton
+# Mark Piper
 
 ## Professional Preparation
 
-*   University of British Columbia, Vancouver, BC (1992–1997)
-    B.A.Sc., Engineering Physics
-    * Geophysics option
-*   University of Colorado, Boulder CO (2002–2007)
-    Ph.D., Geophysics
-    * Graduate Certificate in Oceanography
-    * Graduate Certificate in Hydrology
+University of Wisconsin, Madison, WI (1988-1992)  
+B.S., Mathematics
+
+Pennsylvania State University, University Park, PA (1992-1994)  
+M.S., Meteorology
+
+University of Colorado, Boulder, CO (1995-2001)  
+Ph.D., Astrophysical, Planetary, and Atmospheric Sciences
 
 ## Appointments
 
-*   INSTAAR, University of Colorado Boulder, CO	(2007–present)  
-    * Research Scientist
-*   INSTAAR, University of Colorado Boulder, CO	(1997–2007)  
-    * Professional Research Assistant
+INSTAAR, University of Colorado, Boulder, CO (2013-present)  
+Research Associate
+
+Exelis Visual Information Solutions (formerly Research Systems, Inc.), Boulder, CO (2012–2013)  
+IDL Product Manager
+
+Exelis Visual Information Solutions, Boulder, CO (2010-2012)  
+Solutions Engineer
+
+Exelis Visual Information Solutions, Boulder, CO (1999-2010)  
+Instructor / Consulting Engineer
 
 ## Products
 
-1.  A. D. Ashton, E. W. Hutton, A. J. Kettner, F. Xing, J. Kallumadikal, J.
-    Nienhuis, and L. Giosan. 2013. Progress in coupling models of coastline and
-    fluvial dynamics. Computers & Geosciences, 53(0):21 – 29. Modeling for
-    Environmental Change. doi:10.1016/j.cageo.2012.04.004.
-1.  E. W. Hutton and J. P. Syvitski. 2008. Sedflux 2.0: An advanced
-    process-response model that generates three-dimensional stratigraphy.
-    Computers & Geosciences, 34(10):1319 – 1337. Predictive Modeling in
-    Sediment Transport and Stratigraphy. doi:10.1016/j.cageo.2008.02.013.
-1.  E. W. H. Hutton.  CSDMS Model Coupling Framework (Version 0.9).  CSDMS,
-    Boulder, Colorado, 2008-2014. [Computer Software].
-    URL: https://github.com/csdms/coupling.
-1.  E. W. H. Hutton and M. D. Piper.  CSDMS Web Modeling Tools (Version 0.9).
-    CSDMS, Boulder, Colorado, 2014. [Computer Software].
-    URL: https://github.com/csdms/wmt.
-1.  S. D. Peckham, E. W. Hutton, and B. Norris. 2013. A component-based
-    approach to integrated modeling in the geosciences: The design of CSDMS.
-    Computers & Geosciences, 53(0):3 – 12. Modeling for Environmental Change.
-    doi:10.1016/j.cageo.2012.04.002.
+1. M. Piper, CSDMS Web Modeling Tool Client (Version 1.0.1). CSDMS,
+   Boulder, Colorado, 2015. [Computer Software]. URL:
+   https://github.com/csdms/wmt-client.
+1. M. Piper, CSDMS BMI Java Bindings (Version 0.1). CSDMS, Boulder,
+   Colorado, 2015. [Computer Software]. URL:
+   https://github.com/csdms/bmi-java.
+1. M. Piper, CSDMS Dakota Interface (Version 0.1). CSDMS, Boulder,
+   Colorado, 2015. [Computer Software]. URL:
+   https://github.com/csdms/dakota.
+1. E. W. H. Hutton and M. Piper. CSDMS Web Modeling Tools (Version
+   0.9). CSDMS, Boulder, Colorado, 2014. [Computer Software]. URL:
+   https://github.com/csdms/wmt.
+1. J. P. Syvitski, E. Hutton, M. Piper, I. Overeem, A. Kettner, and
+   S. Peckham, 2014. Plug and Play Component Modeling---The CSDMS2.0
+   Approach. In: Ames, D.P., Quinn, N.W.T., Rizzoli, A.E. (Eds.),
+   *Proceedings of the 7th International Congress on Environmental
+   Modelling and Software*, June 15-19, San Diego, CA. ISBN:
+   978-88-9035-744-2.
 
 ## Other Products
 
-1.  E. Hutton, J. Syvitski, and A. Watts.  2013.  Isostatic flexure of a finite
-    slope due to sea-level rise and fall.  Computers & Geosciences,
-    53(0):58-68.  Modeling for Environmental Change.
-    doi:10.1016/j.cageo.2012.03.020.
-1.  E. W. H. Hutton. sedflux (Version 2.1). Boulder, Colorado, 2001-2012.
-    [Computer Software]. doi:10.1594/IEDA/100161.
-1.  I. Overeem, J. P. M. Syvitski, and E. W. H. Hutton.  2005.  River Deltas -
-    Concepts, Models, and Examples, chapter Three-dimensional numerical
-    modeling of deltas, pages 13–30.
-1.  J. P. M. Syvitski, E. W. H. Hutton, S. D. Peckham, and R. L.
-    Slingerland.  2011. CSDMS: A modeling system to aid sedimentary research.
-    The Sedimentary Record, 9(1):4–9.
-1.  J. P. M. Syvitski, A. J. Kettner, M. T. Hannon, E. W. H. Hutton, I.
-    Overeem, G. R. Brakenridge, J. Day, C. Vörösmarty, Y. Saito, L. Giosan, and
-    R. J. Nicholls.  2009.  Sinking deltas due to human activity. Nature
-    Geoscience, 2(10):681 – 686. doi:10.1038/ngeo629.
+1. M. Piper and T. Bahr, 2015. A Rapid Cloud Mask Algorithm for Suomi
+   NPP VIIRS Imagery EDRs. *Int. Arch. Photogramm. Remote Sens. Spatial
+   Inf. Sci.*, **XL-7/W3**, 237-242,
+   doi:10.5194/isprsarchives-XL-7-W3-237-2015.
+1. M. Piper, 2012. Working with Suomi NPP VIIRS data in ENVI and IDL,
+   *The Earth Observer*, **24**, 22-23.
+1. M. Piper, B. Justice, A. Borsholm and A.T. Harris, 2011. Use of
+    Open Geospatial Consortium (OGC) Standards to Disseminate and
+    Access Scientific Data, In: *AGU Fall Meeting Abstracts*, **1**,
+    1393.
+1. M. Piper, 2010. *Introduction to IDL*, Exelis Visual Information
+    Solutions, Boulder, Colorado, 174 pp. [Course manual].
+1. M. Piper and J.K. Lundquist, 2004. Surface-layer turbulence
+    measurements during a frontal passage, *J. Atmos. Sci.*, **61**,
+    1768-1780.
 
 ## Synergistic Activities
 
-**Community Standards for Model Coupling:**
-
-1.  BMI: A Basic Modeling Interface Standard, Version 0.9. The Community
-    Surface Dynamics Modeling System,
-    http://csdms.colorado.edu/wiki/BMI_Description.
-2.  CSDMS Standard Names: A Model Variable Naming Standard, Version 0.9. The
-    Community Surface Dynamics Modeling System,
-    http://csdms.colorado.edu/wiki/CSDMS_Standard_Names.
-
-**Model-Coupling Education Through Short Courses and Conference Sessions:**
-
-3.  Plug-and-play Modeling with the Web Modeling Tool. Two-hour short-course.
-    CSDMS Conference 2014, Boulder, Colorado, USA.
-4.  Modeling coupled processes with sedflux. Two-hour short-course. CSDMS
-    Conference 2011, Boulder, Colorado, USA.
-5.  Earth-Surface Dynamics Modeling: Model Coupling.  Two-hour short-course.
-    RCEM Conference 2009, Santa Fe, Argentina.
+1. M. Piper and E. Hutton, WMT and the Dakota iterative systems
+   analysis toolkit. Two-hour short-course. CSDMS Annual Meeting,
+   Boulder, CO, 2015.
+1. Reviewer for *Computers & Geosciences*, 2015.
+1. M. Piper, ATOC IDL Seminar. Three-hour short-course. Department of
+   Atmospheric and Oceanic Sciences, University of Colorado,
+   Boulder, 2015. URL: http://mdpiper.github.io/ATOC-IDL-seminar.
+1. Program committee member for the HDF and HDF-EOS Workshop XVI, 2013.
+1. Product Management Certification, Pragmatic Marketing, 2012.
