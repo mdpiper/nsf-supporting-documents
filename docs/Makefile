@@ -6,12 +6,15 @@ MD_SOURCES= \
   Piper_Facilities_and_Equipment.md \
   Piper_Results_from_Prior.md
 CSV_SOURCES=Piper_Conflict_of_Interest.csv
-DOCS=${MD_SOURCES:.md=.docx} ${CSV_SOURCES:.csv=.docx}
+DOCS=${MD_SOURCES:.md=.docx} ${MD_SOURCES:.md=.pdf} ${CSV_SOURCES:.csv=.docx}
 
-.SUFFIXES : .md .csv .docx
+.SUFFIXES : .md .csv .docx .pdf
 
 .md.docx:
 	pandoc --to=docx $< -o $@
+
+.md.pdf:
+	pandoc --to=latex $< -o $@
 
 .csv.docx:
 	../scripts/coi_to_caa.py $< | pandoc --to=docx -o $@
