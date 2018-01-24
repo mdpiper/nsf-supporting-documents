@@ -10,32 +10,32 @@ University of Colorado  Boulder, CO         Atmospheric Sciences Ph.D., 2001
 
 ## Appointments
 
-INSTAAR, University of Colorado, Boulder, CO (2013-present)  
-Research Associate
+*Research Associate*  
+INSTAAR, University of Colorado, Boulder, CO (2013-present)
 
-Exelis Visual Information Solutions (formerly Research Systems, Inc.), Boulder, CO (2012–2013)  
-IDL Product Manager
+*Product Manager*  
+Harris Geospatial Solutions (formerly Research Systems, Inc.), Boulder, CO (2012-2013)
 
-Exelis Visual Information Solutions, Boulder, CO (2010-2012)  
-Solutions Engineer
+*Solutions Engineer*  
+Harris Geospatial Solutions, Boulder, CO (2010-2012)
 
-Exelis Visual Information Solutions, Boulder, CO (1999-2010)  
-Instructor / Consulting Engineer
+*Professional Services Engineer*  
+Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Products
 
-1. M. Piper, CSDMS Web Modeling Tool Client (Version 1.0.1). CSDMS,
-   Boulder, Colorado, 2015. [Computer Software]. URL:
-   https://github.com/csdms/wmt-client.
-1. M. Piper, CSDMS BMI Java Bindings (Version 0.1). CSDMS, Boulder,
-   Colorado, 2015. [Computer Software]. URL:
-   https://github.com/csdms/bmi-java.
-1. M. Piper, CSDMS Dakota Interface (Version 0.1). CSDMS, Boulder,
-   Colorado, 2015. [Computer Software]. URL:
+1. M. Piper, The Permafrost Benchmark System (Version 0.1). CSDMS,
+   Boulder, Colorado, 2017. [Computer Software]. URL:
+   https://github.com/permamodel/pbs.
+1. M. Piper, A Basic Model Interface for the ILAMB benchmarking
+   toolkit (Version 0.1.1). CSDMS, Boulder, Colorado, 2017. [Computer
+   Software]. URL: https://github.com/permamodel/bmi-ilamb.
+1. M. Piper, CSDMS Dakota Interface (Version 0.4). CSDMS, Boulder,
+   Colorado, 2017. [Computer Software]. URL:
    https://github.com/csdms/dakota.
-1. E. W. H. Hutton and M. Piper. CSDMS Web Modeling Tools (Version
-   0.9). CSDMS, Boulder, Colorado, 2014. [Computer Software]. URL:
-   https://github.com/csdms/wmt.
+1. M. Piper, CSDMS Web Modeling Tool Client (Version 1.0.1). CSDMS,
+   Boulder, Colorado, 2016. [Computer Software]. URL:
+   https://github.com/csdms/wmt-client.
 1. J. P. Syvitski, E. Hutton, M. Piper, I. Overeem, A. Kettner, and
    S. Peckham, 2014. Plug and Play Component Modeling---The CSDMS2.0
    Approach. In: Ames, D.P., Quinn, N.W.T., Rizzoli, A.E. (Eds.),
@@ -45,18 +45,20 @@ Instructor / Consulting Engineer
 
 ## Other Products
 
+1. M. Piper, CSDMS BMI Java Bindings (Version 0.1). CSDMS, Boulder,
+   Colorado, 2017. [Computer Software]. URL:
+   https://github.com/csdms/bmi-java.
+1.  M. Piper, E. Hutton, and J.P. Syvitski, 2016. A Python Interface
+    for the Dakota Iterative Systems Analysis Toolkit, *AGU Fall
+    Meeting Abstracts*, H34E-06, URL:
+    http://adsabs.harvard.edu/abs/2016AGUFM.H34E..06P.
+1.  M. Piper, E. Hutton, I. Overeem, and J.P. Syvitski, 2015. WMT: The
+    CSDMS Web Modeling Tool, *AGU Fall Meeting Abstracts*, IN13B-1841,
+    URL: http://adsabs.harvard.edu/abs/2015AGUFMIN13B1841P.
 1. M. Piper and T. Bahr, 2015. A Rapid Cloud Mask Algorithm for Suomi
    NPP VIIRS Imagery EDRs. *Int. Arch. Photogramm. Remote Sens. Spatial
    Inf. Sci.*, **XL-7/W3**, 237-242,
    doi:10.5194/isprsarchives-XL-7-W3-237-2015.
-1. M. Piper, 2012. Working with Suomi NPP VIIRS data in ENVI and IDL,
-   *The Earth Observer*, **24**, 22-23.
-1. M. Piper, B. Justice, A. Borsholm and A.T. Harris, 2011. Use of
-    Open Geospatial Consortium (OGC) Standards to Disseminate and
-    Access Scientific Data, In: *AGU Fall Meeting Abstracts*, **1**,
-    1393.
-1. M. Piper, 2010. *Introduction to IDL*, Exelis Visual Information
-    Solutions, Boulder, Colorado, 174 pp. [Course manual].
 1. M. Piper and J.K. Lundquist, 2004. Surface-layer turbulence
     measurements during a frontal passage, *J. Atmos. Sci.*, **61**,
     1768-1780.
