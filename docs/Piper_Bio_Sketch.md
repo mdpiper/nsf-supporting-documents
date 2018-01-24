@@ -2,14 +2,11 @@
 
 ## Professional Preparation
 
-University of Wisconsin, Madison, WI (1988-1992)  
-B.S., Mathematics
-
-Pennsylvania State University, University Park, PA (1992-1994)  
-M.S., Meteorology
-
-University of Colorado, Boulder, CO (1995-2001)  
-Ph.D., Astrophysical, Planetary, and Atmospheric Sciences
+----------------------- ------------------- -------------------- ----------
+University of Wisconsin Madison, WI         Mathematics          B.S., 1992
+Penn State University   University Park, PA Meteorology          M.S., 1994
+University of Colorado  Boulder, CO         Atmospheric Sciences Ph.D., 2001
+----------------------------------------------------------------------------
 
 ## Appointments
 
