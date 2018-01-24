@@ -48,29 +48,32 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 1. M. Piper, CSDMS BMI Java Bindings (Version 0.1). CSDMS, Boulder,
    Colorado, 2017. [Computer Software]. URL:
    https://github.com/csdms/bmi-java.
-1.  M. Piper, E. Hutton, and J.P. Syvitski, 2016. A Python Interface
-    for the Dakota Iterative Systems Analysis Toolkit, *AGU Fall
-    Meeting Abstracts*, H34E-06, URL:
-    http://adsabs.harvard.edu/abs/2016AGUFM.H34E..06P.
-1.  M. Piper, E. Hutton, I. Overeem, and J.P. Syvitski, 2015. WMT: The
-    CSDMS Web Modeling Tool, *AGU Fall Meeting Abstracts*, IN13B-1841,
-    URL: http://adsabs.harvard.edu/abs/2015AGUFMIN13B1841P.
+1. M. Piper, E. Hutton, and J.P. Syvitski, 2016. A Python Interface
+   for the Dakota Iterative Systems Analysis Toolkit, *AGU Fall
+   Meeting Abstracts*, H34E-06, URL:
+   http://adsabs.harvard.edu/abs/2016AGUFM.H34E..06P.
+1. M. Piper, E. Hutton, I. Overeem, and J.P. Syvitski, 2015. WMT: The
+   CSDMS Web Modeling Tool, *AGU Fall Meeting Abstracts*, IN13B-1841,
+   URL: http://adsabs.harvard.edu/abs/2015AGUFMIN13B1841P.
 1. M. Piper and T. Bahr, 2015. A Rapid Cloud Mask Algorithm for Suomi
    NPP VIIRS Imagery EDRs. *Int. Arch. Photogramm. Remote Sens. Spatial
    Inf. Sci.*, **XL-7/W3**, 237-242,
    doi:10.5194/isprsarchives-XL-7-W3-237-2015.
 1. M. Piper and J.K. Lundquist, 2004. Surface-layer turbulence
-    measurements during a frontal passage, *J. Atmos. Sci.*, **61**,
-    1768-1780.
+   measurements during a frontal passage, *J. Atmos. Sci.*, **61**,
+   1768-1780.
 
 ## Synergistic Activities
 
+1. E. Hutton and M. Piper (organizers), *BMI Hackathon*. CSDMS Annual
+   Meeting, Boulder, CO, 2017.
+1. M. Piper and E. Hutton, BMI Live. Two-hour short-course. CSDMS
+   Annual Meeting, Boulder, CO, 2016. URL:
+   https://github.com/csdms/bmi-live-2016
+1. Reviewer for *Computers & Geosciences* and *Basin Research*.
 1. M. Piper and E. Hutton, WMT and the Dakota iterative systems
    analysis toolkit. Two-hour short-course. CSDMS Annual Meeting,
-   Boulder, CO, 2015.
-1. Reviewer for *Computers & Geosciences*, 2015.
+   Boulder, CO, 2015. URL: https://github.com/mdpiper/dakota-tutorial.
 1. M. Piper, ATOC IDL Seminar. Three-hour short-course. Department of
    Atmospheric and Oceanic Sciences, University of Colorado,
    Boulder, 2015. URL: http://mdpiper.github.io/ATOC-IDL-seminar.
-1. Program committee member for the HDF and HDF-EOS Workshop XVI, 2013.
-1. Product Management Certification, Pragmatic Marketing, 2012.
