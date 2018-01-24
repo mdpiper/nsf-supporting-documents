@@ -1,32 +1,32 @@
 # Current Support for Mark Piper
 
-## Computational Infrastructure for the Community Surface Dynamics Modeling Systems
+## Computational Infrastructure for the Community Surface Dynamics Modeling System (award supplement)
 
-Proposer name: J.P.M. Syvitski (PI)  
-Program Name/Sponsoring Agency: NSF/GI  
-Period of Performance/Total Budget: 10/2012 - 10/2017, $4.8M  
-Commitment (months/year): 10.8  
-
-## Towards a Tiered Permafrost Modeling Cyberinfrastructure
-
-Proposer name: Elchin Jafarov (PI), Mark Piper (Co-I)  
-Program Name/Sponsoring Agency: NSF/PLR  
-Period of Performance/Total Budget: 9/2015 - 8/2018, $970K  
-Commitment (months/year): 2.0  
+Principal investigator: Greg Tucker  
+Program Name/Sponsoring Agency: NSF  
+Period of Performance/Total Award: 10/2017--9/2018, $768,797  
+Commitment (person-months/year): 10.0  
 
 ## A Permafrost Benchmark System to Evaluate Permafrost Models
 
-Proposer name: Kevin Schaefer (PI), Mark Piper (Co-I)  
+Principal investigator: Kevin Schaefer  
 Program Name/Sponsoring Agency: NASA  
-Period of Performance/Total Budget: 10/2015 - 9/2017, $456K  
-Commitment (months/year): 3.0  
+Period of Performance/Total Award: 10/2015--9/2018, $456,165  
+Commitment (person-months/year): 2.0  
+
+## Toward a Tiered Permafrost Modeling Cyberinfrastructure
+
+Principal investigator: Irina Overeem (transferred from Elchin Jafarov)  
+Program Name/Sponsoring Agency: NSF/PLR  
+Period of Performance/Total Award: 9/2015--8/2018, $969,683  
+Commitment (person-months/year): 0.0  
 
 
 # Pending Awards
 
-## Modeling-as-a-service: A Cyberinfrastructure Framework for Modern Permafrost Research
+## Community Facility Support for the Community Surface Dynamics Modeling System (CSDMS) (Current Proposal)
 
-Proposer name: Elchin Jafarov (PI)  
-Program Name/Sponsoring Agency: NSF/PLR  
-Period of Performance/Total Budget: 1/2016 - 12/2018, $1.2M  
-Commitment (months/year): 1.0  
+Principal investigator: Greg Tucker  
+Program Name/Sponsoring Agency: NSF/EAR/IF  
+Period of Performance/Total Award: 2018--2023, $5.0M  
+Commitment (person-months/year): 10.5  
