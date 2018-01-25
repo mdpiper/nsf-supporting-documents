@@ -21,7 +21,7 @@ _TEMPLATE = """
 
 {advisors}
 
-### Thesis Advisor ({number_of_sponsors}) ###
+### PhD Advisor ({number_of_sponsors}) ###
 
 {sponsors}
 """.strip()
