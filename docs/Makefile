@@ -6,7 +6,11 @@ MD_SOURCES= \
   Piper_Facilities_and_Equipment.md \
   Piper_Results_from_Prior.md
 CSV_SOURCES=Piper_Conflict_of_Interest.csv
-DOCS=${MD_SOURCES:.md=.docx} ${MD_SOURCES:.md=.pdf} ${CSV_SOURCES:.csv=.docx}
+DOCS= \
+  ${MD_SOURCES:.md=.docx} \
+  ${MD_SOURCES:.md=.pdf} \
+  ${CSV_SOURCES:.csv=.docx} \
+  ${CSV_SOURCES:.csv=.pdf}
 
 .SUFFIXES : .md .csv .docx .pdf
 
@@ -19,8 +23,12 @@ DOCS=${MD_SOURCES:.md=.docx} ${MD_SOURCES:.md=.pdf} ${CSV_SOURCES:.csv=.docx}
 .csv.docx:
 	../scripts/coi_to_caa.py $< | pandoc --to=docx -o $@
 
+.csv.pdf:
+	../scripts/coi_to_caa.py $< | pandoc --to=latex -o $@
+
 all: ${DOCS}
 	mv Piper_Conflict_of_Interest.docx Piper_Collaborators_and_Affiliations.docx
+	mv Piper_Conflict_of_Interest.pdf Piper_Collaborators_and_Affiliations.pdf
 
 clean:
-	rm -f ${DOCS} Piper_Collaborators_and_Affiliations.docx
+	rm -f ${DOCS} Piper_Collaborators_and_Affiliations.{docx,pdf}
