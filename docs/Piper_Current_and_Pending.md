@@ -14,19 +14,26 @@ Program Name/Sponsoring Agency: NASA
 Period of Performance/Total Award: 10/2015--9/2018, $456,165  
 Commitment (person-months/year): 2.0  
 
-## Toward a Tiered Permafrost Modeling Cyberinfrastructure
-
-Principal investigator: Irina Overeem (transferred from Elchin Jafarov)  
-Program Name/Sponsoring Agency: NSF PLR  
-Period of Performance/Total Award: 9/2015--8/2018, $969,683  
-Commitment (person-months/year): 0.0  
-
 
 # Pending Awards
 
-## Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS) (Current Proposal)
+## Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS)
 
 Principal investigator: Greg Tucker  
 Program Name/Sponsoring Agency: NSF  
 Period of Performance/Total Award: 2018--2023, $8.6M  
 Commitment (person-months/year): 11.0  
+
+## Elements: Software: Cyber-Predicting Arctic Sea Ice Survival
+
+Principal investigator: Mark Tschudi  
+Program Name/Sponsoring Agency: NSF  
+Period of Performance/Total Award: 2018--2021, $587,392  
+Commitment (person-months/year): 2.0  
+
+## Evaluating Economic Impacts of Arctic Environmental Change (*this proposal*)
+
+Principal investigator: Yasin Elshorbany  
+Program Name/Sponsoring Agency: NSF/NERC  
+Period of Performance/Total Award: 2018--2021, $978,689  
+Commitment (person-months/year): 1.0  
