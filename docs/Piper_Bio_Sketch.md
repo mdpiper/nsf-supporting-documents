@@ -65,15 +65,13 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Synergistic Activities
 
+1. NSF CISE/OAC panel review, 2018.
 1. E. Hutton and M. Piper (organizers), *BMI Hackathon*. CSDMS Annual
    Meeting, Boulder, CO, 2017.
 1. M. Piper and E. Hutton, BMI Live. Two-hour short-course. CSDMS
    Annual Meeting, Boulder, CO, 2016. URL:
    https://github.com/csdms/bmi-live-2016
 1. Reviewer for *Computers & Geosciences* and *Basin Research*.
-1. M. Piper and E. Hutton, WMT and the Dakota iterative systems
-   analysis toolkit. Two-hour short-course. CSDMS Annual Meeting,
-   Boulder, CO, 2015. URL: https://github.com/mdpiper/dakota-tutorial.
 1. M. Piper, ATOC IDL Seminar. Three-hour short-course. Department of
    Atmospheric and Oceanic Sciences, University of Colorado,
    Boulder, 2015. URL: http://mdpiper.github.io/ATOC-IDL-seminar.
