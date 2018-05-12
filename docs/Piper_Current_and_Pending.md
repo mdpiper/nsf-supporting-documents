@@ -31,9 +31,9 @@ Program Name/Sponsoring Agency: NSF
 Period of Performance/Total Award: 2018--2021, $587,392  
 Commitment (person-months/year): 2.0  
 
-## Evaluating Economic Impacts of Arctic Environmental Change (*this proposal*)
+## Icy landscapes from the Brooks Range to the Beaufort Sea: quantifying the mobilization, transport and deposition of sediment and carbon in Arctic Alaska (*this proposal*)
 
-Principal investigator: Yasin Elshorbany  
-Program Name/Sponsoring Agency: NSF/NERC  
-Period of Performance/Total Award: 2018--2021, $978,689  
-Commitment (person-months/year): 1.0  
+Principal investigator: Irina Overeem  
+Program Name/Sponsoring Agency: NSF-OPP ANS  
+Period of Performance/Total Award: 1/1/2019--12/31/2021, $866,323  
+Commitment (person-months/year): 1.0, 1.0, 1.0  
