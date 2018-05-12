@@ -2,11 +2,11 @@
 
 ## Professional Preparation
 
------------------------ ------------------- -------------------- ----------
+----------------------- ------------------- -------------------- -----------
 University of Wisconsin Madison, WI         Mathematics          B.S., 1992
 Penn State University   University Park, PA Meteorology          M.S., 1994
 University of Colorado  Boulder, CO         Atmospheric Sciences Ph.D., 2001
-----------------------------------------------------------------------------
+----------------------- ------------------- -------------------- -----------
 
 ## Appointments
 
@@ -24,16 +24,16 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Products
 
-1. M. Piper, The Permafrost Benchmark System (Version 0.1). CSDMS,
-   Boulder, Colorado, 2017. [Computer Software]. URL:
+1. M. Piper, The Permafrost Benchmark System (v0.1). CSDMS,
+   Boulder, Colorado, 2018. [Computer Software]. URL:
    https://github.com/permamodel/pbs.
 1. M. Piper, A Basic Model Interface for the ILAMB benchmarking
-   toolkit (Version 0.1.1). CSDMS, Boulder, Colorado, 2017. [Computer
+   toolkit (v0.1.1). CSDMS, Boulder, Colorado, 2017. [Computer
    Software]. URL: https://github.com/permamodel/bmi-ilamb.
-1. M. Piper, CSDMS Dakota Interface (Version 0.4). CSDMS, Boulder,
+1. M. Piper, CSDMS Dakota Interface (v0.4.1). CSDMS, Boulder,
    Colorado, 2017. [Computer Software]. URL:
    https://github.com/csdms/dakota.
-1. M. Piper, CSDMS Web Modeling Tool Client (Version 1.0.1). CSDMS,
+1. M. Piper, CSDMS Web Modeling Tool Client (v1.0.1). CSDMS,
    Boulder, Colorado, 2016. [Computer Software]. URL:
    https://github.com/csdms/wmt-client.
 1. J. P. Syvitski, E. Hutton, M. Piper, I. Overeem, A. Kettner, and
@@ -45,7 +45,7 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Other Products
 
-1. M. Piper, CSDMS BMI Java Bindings (Version 0.1). CSDMS, Boulder,
+1. M. Piper, CSDMS BMI Java Bindings (v0.1). CSDMS, Boulder,
    Colorado, 2017. [Computer Software]. URL:
    https://github.com/csdms/bmi-java.
 1. M. Piper, E. Hutton, and J.P. Syvitski, 2016. A Python Interface
@@ -66,12 +66,12 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 ## Synergistic Activities
 
 1. NSF CISE/OAC panel review, 2018.
-1. E. Hutton and M. Piper (organizers), *BMI Hackathon*. CSDMS Annual
-   Meeting, Boulder, CO, 2017.
-1. M. Piper and E. Hutton, BMI Live. Two-hour short-course. CSDMS
-   Annual Meeting, Boulder, CO, 2016. URL:
-   https://github.com/csdms/bmi-live-2016
+1. M. Perignon and M. Piper, *CSDMS Software Carpentry Bootcamp*.
+   CSDMS Annual Meeting, Boulder, CO, 2017.
+1. M. Piper and E. Hutton, *BMI Live*. Two-hour short-course. CSDMS
+   Annual Meeting, Boulder, CO, 2017. URL:
+   https://github.com/csdms/bmi-live-2017
 1. Reviewer for *Computers & Geosciences* and *Basin Research*.
-1. M. Piper, ATOC IDL Seminar. Three-hour short-course. Department of
+1. M. Piper, *ATOC IDL Seminar*. Three-hour short-course. Department of
    Atmospheric and Oceanic Sciences, University of Colorado,
    Boulder, 2015. URL: http://mdpiper.github.io/ATOC-IDL-seminar.
