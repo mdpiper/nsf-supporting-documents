@@ -17,3 +17,10 @@ Principal investigator: Steven Markstrom
 Program Name/Sponsoring Agency: USGS CDI  
 Period of Performance/Total Award: Mar 2019 -- Sep 2019, $46,115  
 Commitment (person-months/year): 1.5  
+
+## Collaborative Research: How do Coastlines Respond to Storm Climate Shifts?
+
+Principal investigator: Brad Murray  
+Program Name/Sponsoring Agency: NSF GLD  
+Period of Performance/Total Award: Jun 2019 -- May 2022, $99,813  
+Commitment (person-months/year): 0.0, 1.0, 1.0  
