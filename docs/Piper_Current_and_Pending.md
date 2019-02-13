@@ -25,10 +25,10 @@ Program Name/Sponsoring Agency: NSF GLD
 Period of Performance/Total Award: Jun 2019 -- May 2022, $99,813  
 Commitment (person-months/year): 0.0, 1.0, 1.0  
 
-# Cybertraining for Earth Surface Processes Modelers
+# Cybertraining: Implementation: Medium: Collaborative Research: Cybertraining for Earth Surface Processes Modelers
 Principal investigator: Irina Overeem  
 Program Name/Sponsoring Agency: NSF OAC  
-Period of Performance/Total Award: Oct 2019 -- Sep 2023, $899,466  
+Period of Performance/Total Award: Oct 2019 -- Sep 2023, $895,466  
 Commitment (person-months/year): 0.5, 0.5, 0.5, 0.5
 
 # Collaborative Research: Building an Integrated Framework for Transient Watershed Evolution (this proposal)
