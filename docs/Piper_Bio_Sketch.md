@@ -69,13 +69,12 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 1. With M. Perignon, developed and taught *CSDMS Software Carpentry
    Bootcamp*, a one-day training course on using shell, Python, and
    version control, all with an earth science theme. Held at the CSDMS
-   Annual Meeting, Boulder, CO, 2016, 2017, and 2018.
+   Annual Meeting, Boulder, CO, 2018.
 1. With E. Hutton, developed and taught *BMI Live*, a two-hour
    short-course on implementing a Basic Model Interface (BMI) for a
-   numerical model. Held at the CSDMS Annual Meeting, Boulder, CO,
-   206, 2017, and 2018. URL: https://github.com/csdms/bmi-live-2018
-1. Reviewer for *Computers & Geosciences*, *Basin Research*, and
-   *Journal of Open Source Software*.
+   numerical model. Held at the CSDMS Annual Meeting, Boulder,
+   CO, 2018. URL: https://github.com/csdms/bmi-live-2018
+1. Reviewer for *Journal of Open Source Software*, 2018.
 1. Developed and taught *ATOC IDL Seminar*, a three-hour short course
    for the Department of Atmospheric and Oceanic Sciences at the
    University of Colorado Boulder, 2015. URL:
