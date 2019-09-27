@@ -8,15 +8,15 @@ Award number: 1831623
 Period of Performance/Total Award: Oct 2018 -- Sep 2021, $2.325M  
 Commitment (person-months/year): 10.5  
 
+## Cybertraining: Pilot: Collaborative Research: Cybertraining for Earth Surface Processes Modelers
+Principal investigator: Irina Overeem  
+Program Name/Sponsoring Agency: NSF OAC  
+Award number: 1924259  
+Period of Performance/Total Award: Oct 2019 -- Sep 2023, $277,623  
+Commitment (person-months/year): 0.5, 0.5, 0.5, 0.5
+
 
 # Pending Awards
-
-## Coupling Hydrologic Models with Data Services in an Interoperable Modeling Framework
-
-Principal investigator: Steven Markstrom  
-Program Name/Sponsoring Agency: USGS CDI  
-Period of Performance/Total Award: Mar 2019 -- Sep 2019, $46,115  
-Commitment (person-months/year): 1.5  
 
 ## Collaborative Research: How do Coastlines Respond to Storm Climate Shifts?
 
@@ -24,15 +24,3 @@ Principal investigator: Brad Murray
 Program Name/Sponsoring Agency: NSF GLD  
 Period of Performance/Total Award: Jun 2019 -- May 2022, $99,813  
 Commitment (person-months/year): 0.0, 1.0, 1.0  
-
-# Cybertraining: Implementation: Medium: Collaborative Research: Cybertraining for Earth Surface Processes Modelers
-Principal investigator: Irina Overeem  
-Program Name/Sponsoring Agency: NSF OAC  
-Period of Performance/Total Award: Oct 2019 -- Sep 2023, $895,466  
-Commitment (person-months/year): 0.5, 0.5, 0.5, 0.5
-
-# Collaborative Research: Building an Integrated Framework for Transient Watershed Evolution (this proposal)
-Principal investigator: Erkan Istanbulluoglu  
-Program Name/Sponsoring Agency: NSF GEO EAR  
-Period of Performance/Total Award: Jan 2020 -- Dec 2024  
-Commitment (person-months/year): 1.0, 1.0, 1.0, 1.0, 1.0

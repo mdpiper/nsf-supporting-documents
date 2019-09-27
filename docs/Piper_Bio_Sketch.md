@@ -24,18 +24,18 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Products
 
+1. M. Piper, Fortran Bindings for the Basic Model Interface
+   (v1.2). CSDMS, Boulder, CO, 2019. [Computer Software]. URL:
+   https://github.com/csdms/bmi-fortran.
+1. E. Hutton and M. Piper, PyMT: CSDMS Python Modeling Toolkit (v1.0).
+   CSDMS, Boulder, CO, 2019. [Computer Software]. URL:
+   https://github.com/csdms/wmt-client.
+1. M. Piper, Dakotathon: CSDMS Dakota Interface (v0.4.5). CSDMS, Boulder,
+   CO, 2019. [Computer Software]. URL:
+   https://github.com/csdms/dakotathon.
 1. M. Piper, The Permafrost Benchmark System (v1.0). CSDMS,
    Boulder, CO, 2018. [Computer Software]. URL:
    https://permamodel.github.io/pbs.
-1. M. Piper, Fortran Bindings for the Basic Model Interface
-   (v1.0). CSDMS, Boulder, CO, 2018. [Computer Software]. URL:
-   https://github.com/csdms/bmi-fortran.
-1. M. Piper, CSDMS Dakota Interface (v0.4.1). CSDMS, Boulder,
-   CO, 2017. [Computer Software]. URL:
-   https://github.com/csdms/dakota.
-1. M. Piper, CSDMS Web Modeling Tool Client (v1.1). CSDMS,
-   Boulder, CO, 2016. [Computer Software]. URL:
-   https://github.com/csdms/wmt-client.
 1. J. P. Syvitski, E. Hutton, M. Piper, I. Overeem, A. Kettner, and
    S. Peckham, 2014. Plug and Play Component Modeling---The CSDMS2.0
    Approach. In: Ames, D.P., Quinn, N.W.T., Rizzoli, A.E. (Eds.),
@@ -45,16 +45,17 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Other Products
 
-1. M. Piper, A Basic Model Interface for the ILAMB benchmarking
-   toolkit (v0.1.3). CSDMS, Boulder, CO, 2017. [Computer
-   Software]. URL: https://github.com/permamodel/bmi-ilamb.
+1. M. Piper, G. Tucker, I. Overeem, A. Kettner, E. Hutton, and
+   L. McCready, 2018. The CSDMS Model Repository, *AGU Fall Meeting
+   Abstracts*.
+1. I. Overeem and E. Jafarov and K. Wang and K. Schaefer and
+   S. Stewart and G. Clow and M. Piper and Y. Elshorbany, 2018. A
+   modeling toolbox for permafrost landscapes, *Eos*, **99**, URL:
+   https://doi.org/10.1029/2018EO105155.
 1. M. Piper, E. Hutton, and J.P. Syvitski, 2016. A Python Interface
    for the Dakota Iterative Systems Analysis Toolkit, *AGU Fall
    Meeting Abstracts*, H34E-06, URL:
    http://adsabs.harvard.edu/abs/2016AGUFM.H34E..06P.
-1. M. Piper, E. Hutton, I. Overeem, and J.P. Syvitski, 2015. WMT: The
-   CSDMS Web Modeling Tool, *AGU Fall Meeting Abstracts*, IN13B-1841,
-   URL: http://adsabs.harvard.edu/abs/2015AGUFMIN13B1841P.
 1. M. Piper and T. Bahr, 2015. A Rapid Cloud Mask Algorithm for Suomi
    NPP VIIRS Imagery EDRs. *Int. Arch. Photogramm. Remote Sens. Spatial
    Inf. Sci.*, **XL-7/W3**, 237-242,
@@ -65,17 +66,17 @@ Harris Geospatial Solutions, Boulder, CO (1999-2010)
 
 ## Synergistic Activities
 
-1. NSF CISE/OAC panel review, 2018.
-1. With M. Perignon, developed and taught *CSDMS Software Carpentry
-   Bootcamp*, a one-day training course on using shell, Python, and
-   version control, all with an earth science theme. Held at the CSDMS
-   Annual Meeting, Boulder, CO, 2018.
+1. With M. Perignon, developed and taught *CSDMS Carpentry* workshop,
+   a one-day training course on using shell, Python, and version
+   control, all with an earth science theme. Held at the CSDMS Annual
+   Meeting, Boulder, CO, 2019. URL: https://github.com/csdms/csdms-carpentry
 1. With E. Hutton, developed and taught *BMI Live*, a two-hour
-   short-course on implementing a Basic Model Interface (BMI) for a
+   short course on implementing a Basic Model Interface (BMI) for a
    numerical model. Held at the CSDMS Annual Meeting, Boulder,
-   CO, 2018. URL: https://github.com/csdms/bmi-live-2018
-1. Reviewer for *Journal of Open Source Software*, 2018.
-1. Developed and taught *ATOC IDL Seminar*, a three-hour short course
-   for the Department of Atmospheric and Oceanic Sciences at the
-   University of Colorado Boulder, 2015. URL:
-   http://mdpiper.github.io/ATOC-IDL-seminar.
+   CO, 2019. URL: https://github.com/csdms/bmi-live
+1. With E. Hutton, taught *PyMT Live*, a two-hour short course on
+   using the Python Modeling Tool (PyMT) to run and couple numerical
+   models. Held at the CSDMS Annual Meeting, Boulder, CO, 2019. URL:
+   https://github.com/csdms/pymt-live
+1. Reviewer for *Natural Hazards and Earth System Sciences*, 2019.
+1. NSF CISE/OAC panel review, 2018.
